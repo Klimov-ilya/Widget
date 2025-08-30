@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Widget</string>
+
+    <string name="app_widget_name">App widget</string>
+    <string name="app_widget_description">App widget description</string>
+
+    <string name="app_widget_type_one_title">Type 1</string>
+    <string name="app_widget_type_one_description">Type 1</string>
+</resources>
