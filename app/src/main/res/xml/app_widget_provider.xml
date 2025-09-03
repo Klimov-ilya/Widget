@@ -8,6 +8,7 @@
     android:previewImage="@layout/widget_preview_layout"
     android:maxResizeWidth="600dp"
     android:maxResizeHeight="120dp"
+    android:configure="klimov.example.widget.widgets.configuration.AppWidgetConfigurationActivity"
     android:minResizeWidth="120dp"
     android:minResizeHeight="40dp"
     android:minHeight="120dp"
